@@ -5,7 +5,7 @@ import "bootstrap/dist/css/bootstrap.min.css";
 import Navbar from "./components/Navbar.jsx";
 import Productlist from "./components/Productlist.jsx";
 import Cart from "./components/Cart/Cart.jsx";
-import Default from "./components/Default";
+import Default from "./components/Default.jsx";
 import Details from "./components/Details.jsx";
 import Modal from "./components/Modal";
 
